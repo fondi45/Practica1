@@ -27,3 +27,21 @@ nav ul li a{
     text-transform: uppercase;
     padding: 10px;
 }
+
+section{
+padding: 5px;
+border-radius: 10px;
+background: #7a7a7a;
+}
+
+article{
+    background: #a6a6a6;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+}
+
+aside{
+    background: #92a0c4;
+    border-radius: 10px;
+}
