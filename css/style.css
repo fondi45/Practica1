@@ -13,3 +13,17 @@ nav{
 }
 
 nav ul{
+    padding-top: 10px;
+    list-style: none;
+}
+
+nav ul li{
+    display: inline;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    padding: 10px;
+}
